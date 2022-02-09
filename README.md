@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 # Hi 👋 I'm Eka
 A  self-motivated person who always eager to learn. High interest in data science, mechine learning and related field. 
 
-Lets connect on LinkedIn [Eka Agustina](https://www.linkedin.com/in/eka-agustina-1864b7165/)
+### Let's connect
+<p>
+  <a href="https://www.linkedin.com/in/ekaagustina/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:agustina.ekaa27gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+</p>
  
 <p align="left">
 <a href="https://www.linkedin.com/in/eka-agustina-1864b7165/">
